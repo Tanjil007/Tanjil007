@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I am Tanjil working as Software Engineer at Intelizign.
+- I am a Frontend Developer.
+- I graduated in 2016 from SKNSCOE, Pandharpur(BE, ENTC) with a CGPA of 7.12
+- I am currently learning DevOps
+- Interest: travelling, coding
+- Pronouns: him
+
 <!--
 **Tanjil007/Tanjil007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
