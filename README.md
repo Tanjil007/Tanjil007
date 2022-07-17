@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Tanjil working as Software Engineer at Intelizign.
+- I am Tanjil working as a Software Engineer at Intelizign.
 - I am a Frontend Developer.
 - I graduated in 2016 from SKNSCOE, Pandharpur(BE, ENTC) with a CGPA of 7.12
 - I am currently learning DevOps
